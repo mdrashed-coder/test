@@ -1,0 +1,44 @@
+a{
+    font-size: 25px;
+    text-decoration: none;
+    border: 2px solid tomato;
+    padding: 8px 12px;
+    border-radius: 12px;
+}
+img{
+    max-width: 100%;
+}
+table{
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px solid tomato;
+    padding: 5px;
+}
+
+ul{
+    list-style-type: circle;
+    list-style-type: disc;
+    list-style-type:decimal;
+    list-style-type:decimal;
+    background: violet;
+}
+p{
+    background: violet;
+}
+a{
+    background: yellow;
+}
+/* #  diye id seclect korte hoy. sem id dui jagay use kora jay nah */
+#title{
+    background: yellow;
+
+}
+.title{
+    background: violet;
+
+}
+iframe{
+    border: 0;
+    
+}
